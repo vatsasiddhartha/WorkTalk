@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638999464397",
+    "project_id": "worktalk-b191a",
+    "storage_bucket": "worktalk-b191a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638999464397:android:bb33a5af34671e55c71c84",
+        "android_client_info": {
+          "package_name": "com.example.worktalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMWHhMzVhR86n4kXX1m_TBRS7MwTVo2x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
