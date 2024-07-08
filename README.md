@@ -14,9 +14,7 @@ WorkTalk is an Android application designed to facilitate communication among us
 - **Answer Questions**: Users can click on a question to navigate to an answer page where they can provide their answers.
 - **Real-Time Updates**: All data interactions are handled in real-time using Firebase Realtime Database.
 
-## Screenshots
 
-Include some screenshots of your app to give users a visual idea of what your app looks like. 
 
 ## Installation
 
